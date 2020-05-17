@@ -1,0 +1,1 @@
+{"rustc":13355374433309949680,"features":"[]","target":18346305553854405076,"profile":2574335274271406459,"path":1036222786711178230,"deps":[[7828433892769685722,"mygrep",false,394929636044514662]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/mygrep-b9f1d0356a3dae55/dep-bin-mygrep-b9f1d0356a3dae55"}}],"rustflags":[],"metadata":5220562081215963868}
