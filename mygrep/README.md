@@ -2,7 +2,7 @@
 
 ### Command line tool for faster search
 
-This is a simple grep cli tool build with rust.
+This is a simple grep cli tool built with rust.
 
 Currently this allows you to search for a string in a specified file.
 
