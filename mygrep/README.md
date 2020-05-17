@@ -10,4 +10,4 @@ Case sensitivity is also supported via an env var **CASE_INSENSITIVE**.
 
 When this var is set, grep with search for any occurrance of the string.
 
-This cli-tool expects 3 args, Usage: **./mygrep &ltstring&gt &ltfilename&gt** 
+This cli-tool expects 3 args, Usage: **./mygrep <string&gt; &lt;filename>** 
